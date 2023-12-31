@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jazlan19
+- 👋 Hi, I’m @Jazlankhan
 - 👀 I’m interested in Machine Learning,Deep Learning, Flutter
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Flutter & Firebase
